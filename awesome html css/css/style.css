@@ -1,0 +1,240 @@
+html
+{
+	font-family: "helvetica neue", "Arial", sans-serif;
+}
+body
+{
+	margin: 0;
+	background-color: #fff;
+}
+p
+{
+	font-size: 16px;
+	color: #524d4d;
+}
+header
+{
+	height: 80px;
+	background-color: #fff;
+}
+ul
+{
+	margin-top: 32px;
+}
+ul li
+{
+	list-style: none;
+	display: inline;
+	color: #8e8e8e;
+	padding-right: 12px;
+}
+#header-container
+{
+	width: 75%;
+	margin: auto;
+}
+.col-3
+{
+	width: 33%;
+	float: left;
+}
+.logo
+{
+	padding-top: 30px;
+}
+.SignUpButton
+{
+	background-color: #6dc77a;
+	border-radius: 28px;
+	text-decoration: none;
+	color: #fff;
+	padding: 10px 26px;
+	margin-top: 20px;
+	display: inline-block;
+	font-size: 17px;
+	float: right;
+}
+#top-section-main
+{
+	background-image: url(../img/Friends.jpeg);
+	height: 720px;
+}
+#top-section-content
+{
+	width: 60%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+#top-section-content h1
+{
+	font-size: 4em;
+	color: white;
+	font-weight: 300;
+	padding-top: 100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#top-section-content p
+{
+	font-size: 1.3em;
+	color: white;
+	font-weight: 300;
+}
+
+.play
+{
+	padding-bottom: 110px;
+}
+
+.top-bottom h6
+{
+	font-size: 0.9em;
+	font-family: sans-serif;
+	font-weight: 400;
+	color: #fff;
+}
+
+.main-form input
+{
+	margin:0px;
+	padding-left: 15px;
+	width: 30%;
+	height: 40px;
+	font-family: sans-serif;
+	font-size: 15px;
+	border: none;
+}
+
+.main-form button
+{
+	width: 30%;
+	height: 40px;
+	font-family: sans-serif;
+	font-size: 15px;
+	border: none;
+	background-color: #6dc77a;
+	color: #fff;
+	font-weight: 400;
+}
+
+#feature-section
+{
+	padding-top: 100px;
+}
+
+#feature-section h1
+{
+	width: 70%;
+	text-align: center;
+	font-weight: 300;
+	margin: auto;
+}
+.feature-content
+{
+	width: 80%;
+	margin: auto;
+	padding: 100px;
+	text-align: center;
+}
+.feature-content .col-3 img
+{
+	width: 100%;
+}
+.feature-content .col-3
+{
+	width: 30%;
+	margin: 5px;
+}
+#showcase1-section
+{
+	padding-top: 100px;
+	background-color: #f0f5f4;
+	clear: both;
+}
+.showcase
+{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+.col-2
+{
+	width: 48%;
+	display: block;
+	float: left;
+}
+
+.showcase-pic
+{
+	width: 100%;
+}
+
+.showcase-text
+{
+	padding-top: 300px;
+	padding-left: 50px;
+}
+
+.showcase-title
+{
+	font-weight: 200;
+	width: 70%;
+}
+
+.showcase-para
+{
+	width: 70%;
+	line-height: 25px;
+}
+
+#showcase2-section
+{
+	background-color: #fff;
+	padding-top: 100px;
+}
+#above-footer
+{
+	background-image: url(../img/Darkdesk.jpeg);
+	background-position: 50% 50%;
+	padding-bottom: 50px;
+}
+.col-1
+{
+	width: 80%;
+	margin: auto;
+}
+.above-footer-title
+{
+	margin-top: 0px;
+	padding-top: 50px;
+	font-size: 4em;
+	font-weight: 10;
+	color: #fff;
+	text-align: center;
+}
+.above-footer-para
+{
+	color: #fff;
+	padding-bottom: 100px;
+}
+#footer
+{
+	background-image: url(../img/Footerbg.jpg);
+	background-position: 50% 50%;
+	height: 500px;
+}
+.footer-col-1
+{
+	padding-top: 200px;
+	text-align: center;
+}
+.footer-col-1 img
+{
+	margin-bottom: 30px;
+}
+.footer-para
+{
+	font-size: 1em;
+	color: #ffffffd4;
+}
